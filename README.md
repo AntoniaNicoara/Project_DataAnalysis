@@ -7,3 +7,6 @@ I have developed this analysis project for college, applying what I learned in t
 
 ## Purpose
 My purpose was to identify trends, disparities, and potential patterns in the provision and access to various levels of education across different regions of the country. For this project, I applied principal component analysis and factor analysis techniques.
+
+## Credits
+This project was developed by Nicoara Antonia-Elena.
